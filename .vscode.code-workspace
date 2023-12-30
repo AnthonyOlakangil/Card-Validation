@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../../CS50/.vscode"
+		},
+		{
+			"name": "credit-card-validator",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
